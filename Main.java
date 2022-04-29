@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
- * @author Mohamed Yoube Bahmed
+ * @author Alberto Zamora Camacho
  */
 public class Main {
     public static void main(String[] args) {
