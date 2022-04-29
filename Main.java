@@ -4,9 +4,9 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-/**
- * @author Alberto Zamora Camacho
- */
+/*
+  @author Alberto Zamora Camacho
+*/ 
 public class Main {
     public static void main(String[] args) {
         String archivo = JOptionPane.showInputDialog("Introduce ruta del archivo");
